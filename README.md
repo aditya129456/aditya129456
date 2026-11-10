@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Aditya%20%7C%20Software%20Engineer&fontSize=42&fontAlignY=38&animation=fadeIn&desc=B.Tech%20%40%20IIIT%20Allahabad%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Aditya's GitHub Banner" />
+  <!-- Aesthetic Header Banner with Twinkling Star Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Aditya%20%7C%20Software%20Engineer&fontSize=42&fontAlignY=38&animation=twinkling&desc=B.Tech%20%40%20IIIT%20Allahabad%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Aditya's GitHub Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/aditya129456">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+at+IIIT+Allahabad+%F0%9F%8E%93;Full-Stack+Web+%26+Reactive+Android+Dev+%E2%9A%A1;ML+%2B+Vector+Search+%26+Deep+Learning+%F0%9F%A7%A0;Building+Scalable+%26+High-Throughput+Systems+%F0%9F%9A%80" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+at+IIIT+Allahabad+%F0%9F%8E%93;Full-Stack+Web+%26+Reactive+Android+Dev+%E2%9A%A1;ML+%2B+Vector+Search+%26+Deep+Learning+%F0%9F%A7%A0;Building+Scalable+%26+High-Throughput+Systems+%F0%9F%9A%80" alt="Typing Subtitle" />
   </a>
 
   <br/>
@@ -27,7 +27,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,24&height=3&section=header" width="100%" />
 
 ### 👨‍💻 About Me
 
@@ -48,7 +48,7 @@ current_status: Building real-world projects & exploring modern AI infra
 - 🔭 **Currently Exploring**: LLM application architectures, vector embeddings, high-throughput backend systems, and CUDA optimization.
 - 🤝 **Open for**: Collaborating on innovative open-source projects, hackathons, and research initiatives.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,24&height=3&section=header" width="100%" />
 
 ### 🛠️ Tech Arsenal
 
@@ -78,8 +78,8 @@ current_status: Building real-world projects & exploring modern AI infra
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Kotlin & Android Studio" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/coroutines.svg" width="48" height="48" alt="Coroutines & Flow" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" style="vertical-align: top;" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/coroutines.svg" width="48" height="48" alt="Coroutines & Flow" style="vertical-align: top;" />
 </p>
 
 #### 🗄️ Databases & Vector Storage
@@ -87,8 +87,8 @@ current_status: Building real-world projects & exploring modern AI infra
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark" alt="Databases" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/pgvector.svg" width="48" height="48" alt="pgvector" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/pgvector.svg" width="48" height="48" alt="pgvector" style="vertical-align: top;" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS" style="vertical-align: top;" />
 </p>
 
 #### 🧠 Machine Learning, AI & High-Performance Computing
@@ -96,9 +96,9 @@ current_status: Building real-world projects & exploring modern AI infra
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&theme=dark" alt="ML & AI" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/cuda.svg" width="48" height="48" alt="NVIDIA CUDA" />
-  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/xgboost.svg" width="48" height="48" alt="XGBoost" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" style="vertical-align: top;" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/cuda.svg" width="48" height="48" alt="NVIDIA CUDA" style="vertical-align: top;" />
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/xgboost.svg" width="48" height="48" alt="XGBoost" style="vertical-align: top;" />
 </p>
 
 #### 🛠️ Tooling, DevOps & Infrastructure
@@ -108,37 +108,37 @@ current_status: Building real-world projects & exploring modern AI infra
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gradle&theme=dark" alt="Tooling & Infrastructure" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,24&height=3&section=header" width="100%" />
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-  <!-- Side-by-side Stats & Top Languages -->
+  <!-- Side-by-side Stats & Top Languages with matching border styling -->
   <table border="0">
     <tr align="center">
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=aditya129456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=aditya129456&show_icons=true&theme=tokyonight&border_radius=12&border_color=3b82f6&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya129456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya129456&layout=compact&theme=tokyonight&border_radius=12&border_color=3b82f6&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya129456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Contribution Streak with border styling -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya129456&theme=tokyonight&border_radius=12&border=3B82F6" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Dynamic Programmer Joke Card -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Dev Joke" />
+  <!-- Dynamic Programmer Joke Card with matching border styling -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&border_radius=12&border_color=3b82f6" alt="Dev Joke" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,24&height=3&section=header" width="100%" />
 
 ### 🐍 Contribution Arcade
 
@@ -152,12 +152,10 @@ current_status: Building real-world projects & exploring modern AI infra
 
 </div>
 
----
-
 <div align="center">
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Footer Banner with Twinkling Star Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=110&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 
   <p><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
 
