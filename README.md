@@ -31,6 +31,8 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/developer.gif" width="300" alt="Developer Coding Animation" />
+
 ```yaml
 name: Aditya
 institute: Indian Institute of Information Technology, Allahabad (IIIT-A)
@@ -153,6 +155,11 @@ current_status: Building real-world projects & exploring modern AI infra
 </div>
 
 <div align="center">
+
+  <!-- Animated Coding Mascot -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/coder.gif" width="140" alt="Animated Coder Mascot" />
+  <br/>
 
   <!-- Footer Banner with Twinkling Star Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=110&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
