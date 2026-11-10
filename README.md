@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Aesthetic Header Banner with Twinkling Star Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Aditya%20%7C%20Software%20Engineer&fontSize=42&fontAlignY=38&animation=twinkling&desc=B.Tech%20%40%20IIIT%20Allahabad%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Aditya's GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Aditya%20Kumar%20%7C%20Software%20Engineer&fontSize=42&fontAlignY=38&animation=twinkling&desc=B.Tech%20%40%20IIIT%20Allahabad%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="Aditya's GitHub Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/aditya129456">
