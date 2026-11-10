@@ -128,10 +128,10 @@ current_status: Building real-world projects & exploring modern AI infra
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aditya129456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=aditya129456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya129456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya129456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -139,12 +139,6 @@ current_status: Building real-world projects & exploring modern AI infra
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya129456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Optional GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya129456&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-
 </div>
 
 ---
