@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <svg x="53" y="45" width="150" height="150" viewBox="0 0 24 24">
+    <path fill="#7F52FF" d="M24 24H0V0h24L12 12Z"/>
+  </svg>
+  <text x="128" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#00D2FF" text-anchor="middle">Flow &amp; Async</text>
+</svg>
