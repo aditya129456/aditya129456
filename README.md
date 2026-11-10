@@ -29,49 +29,160 @@
 
 ---
 
-### ⚡ Developer Terminal
+### 👨‍💻 About Me
 
 ```yaml
-┌──(aditya㉿iiit-allahabad)-[~]
-└─$ fastfetch --developer
-
-  ██████╗  ██████╗   OS: Ubuntu Linux / Arch Linux (x86_64)
- ██╔══██╗ ██╔═══██╗  Host: Indian Institute of Information Technology, Allahabad
- ███████║ ██║   ██║  Degree: B.Tech in Information Technology (3rd Year)
- ██╔══██║ ██║   ██║  Kernel: Aditya.dev [v3.0.0-release]
- ██║  ██║ ╚██████╔╝  Uptime: 20+ years of continuous learning & shipping
- ╚═╝  ╚═╝  ╚═════╝   Core Domains: Full-Stack Web • Modern Android • ML/AI Infra
-                     Passions: High-Performance Systems, Vector DBs, Clean Architecture
+name: Aditya
+institute: Indian Institute of Information Technology, Allahabad (IIIT-A)
+degree: B.Tech (3rd Year)
+focus_areas:
+  - Full-Stack Web Development (Next.js, Node.js, FastAPI)
+  - Native Android (Jetpack Compose, Coroutines & Flow)
+  - Applied Machine Learning & Vector Search (PyTorch, FAISS, pgvector, CUDA)
+  - High-Performance Algorithms & Systems (C++, C)
+current_status: Building real-world projects & exploring modern AI infra
 ```
+
+- 🎓 **Undergrad**: 3rd Year B.Tech student at **Indian Institute of Information Technology, Allahabad**.
+- 💡 **Engineering Passion**: Crafting end-to-end full-stack applications, modern reactive Android experiences, and scalable AI/ML pipelines with accelerated vector search.
+- 🔭 **Currently Exploring**: LLM application architectures, vector embeddings, high-throughput backend systems, and CUDA optimization.
+- 🤝 **Open for**: Collaborating on innovative open-source projects, hackathons, and research initiatives.
 
 ---
 
-### 🛠️ Tech Arsenal & Stack
+### 🛠️ Tech Arsenal & Specialties
 
-<div align="center">
+#### 💻 Programming Languages
+> Core languages for competitive programming, low-level systems, algorithmic problem solving, and application development.
 
-  <!-- Unified Dark-Mode Skill Icons -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,java,kotlin,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,mysql,firebase,pytorch,docker,linux,git,github,gradle&perline=12&theme=dark" alt="Core Technologies" />
-    </a>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,java,kotlin&theme=dark" alt="Languages" />
+</p>
 
-  <br/>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
-  <!-- Specialized AI, Mobile & Infra Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-    <img src="https://img.shields.io/badge/Kotlin_Flow-00739D?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow" />
-    <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/FAISS-Vector_Search-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-    <img src="https://img.shields.io/badge/pgvector-Embeddings-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-    <img src="https://img.shields.io/badge/XGBoost-156396?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  </p>
+* **Specialties**: Memory management & STL in C++, Object-Oriented Design in Java, functional and asynchronous paradigms in Python and TypeScript.
 
-</div>
+---
+
+#### 🌐 Frontend & Web Engineering
+> Modern responsive web applications, server-rendered UIs, and dynamic client experiences.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+* **Specialties**: Server Components & App Router (Next.js), component modularity, state management, utility-first styling with Tailwind CSS.
+
+---
+
+#### ⚙️ Backend, APIs & Microservices
+> Asynchronous, high-throughput backend services and clean RESTful API design.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+* **Specialties**: Asynchronous I/O, OpenAPI documentation, middleware architecture, request validation, and JWT authentication flows.
+
+---
+
+#### 📱 Native Android Development
+> Modern declarative mobile engineering with clean architecture and reactive streams.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Android" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Kotlin_Flow-00739D?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+</p>
+
+* **Specialties**: Declarative UI with Jetpack Compose, MVVM architecture, asynchronous thread management with Coroutines, and reactive data pipelines with StateFlow & SharedFlow.
+
+---
+
+#### 🗄️ Databases & Vector Search
+> Relational, NoSQL, in-memory caching, and similarity search for AI embeddings.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark" alt="Databases" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/pgvector-Vector_DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/FAISS-Meta_AI-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+</p>
+
+* **Specialties**: Query optimization, schema normalization, in-memory caching strategies (Redis), and vector similarity search (k-NN / cosine distance) via pgvector and Meta's FAISS.
+
+---
+
+#### 🧠 Machine Learning, AI & High-Performance Computing
+> Deep learning modeling, pretrained transformers, tabular models, and GPU acceleration.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&theme=dark" alt="ML / AI" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/XGBoost-156396?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+</p>
+
+* **Specialties**: Deep neural network training, Hugging Face transformers fine-tuning, gradient boosting models, and hardware acceleration using NVIDIA CUDA.
+
+---
+
+#### 🛠️ Tooling, DevOps & Infrastructure
+> Reproducible environments, automation, version control, and Linux systems.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gradle&theme=dark" alt="Tooling" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
+
+* **Specialties**: Multi-stage Docker builds, Bash scripting, CI/CD automated workflows with GitHub Actions, and Gradle build configurations.
 
 ---
 
