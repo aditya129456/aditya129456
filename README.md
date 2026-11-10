@@ -53,21 +53,29 @@ current_status: Building real-world projects & exploring modern AI infra
 ### 🛠️ Tech Arsenal
 
 #### 💻 Programming Languages
+> Core languages for competitive programming, low-level systems, algorithmic problem solving, and application development.
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,java,kotlin&theme=dark" alt="Programming Languages" />
 </p>
 
 #### 🌐 Frontend & Web Engineering
+> Modern responsive web applications, server-rendered UIs, and dynamic client experiences.
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend & Web Engineering" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### ⚙️ Backend, APIs & Microservices
+> Asynchronous, high-throughput backend services and clean RESTful API design.
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend & APIs" />
 </p>
 
 #### 📱 Native Android Development
+> Modern declarative mobile engineering with clean architecture and reactive streams.
+
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Kotlin & Android Studio" />
   <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" />
@@ -75,13 +83,17 @@ current_status: Building real-world projects & exploring modern AI infra
 </p>
 
 #### 🗄️ Databases & Vector Storage
+> Relational, NoSQL, in-memory caching, and similarity search for AI embeddings.
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark" alt="Databases" />
   <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/pgvector.svg" width="48" height="48" alt="pgvector" />
   <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS" />
 </p>
 
-#### 🧠 Machine Learning & AI
+#### 🧠 Machine Learning, AI & High-Performance Computing
+> Deep learning modeling, pretrained transformers, tabular models, and GPU acceleration.
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&theme=dark" alt="ML & AI" />
   <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" />
@@ -89,7 +101,9 @@ current_status: Building real-world projects & exploring modern AI infra
   <img src="https://raw.githubusercontent.com/aditya129456/aditya129456/main/assets/icons/xgboost.svg" width="48" height="48" alt="XGBoost" />
 </p>
 
-#### 🛠️ Tooling & Infrastructure
+#### 🛠️ Tooling, DevOps & Infrastructure
+> Reproducible environments, automation, version control, and Linux systems.
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gradle&theme=dark" alt="Tooling & Infrastructure" />
 </p>
